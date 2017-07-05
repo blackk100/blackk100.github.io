@@ -4,7 +4,7 @@ body, html {
   background-size: contain;
   background-color: black;
   height: 100%;
-  font-family: "Courier New", Courier, monospace;
+  font-family: 'Nunito', sans-serif;
   font-size: 20px;
   color: white;
 }
@@ -59,4 +59,8 @@ a:active {
 hr {
   margin: auto;
   width: 100%;
+}
+
+p {
+  font-weight: 600;
 }
