@@ -1,0 +1,6 @@
+"last":
+  - firstname: ["first name", "f. n."]
+    url: https://www.example.com
+
+  - firstname: ["another first name", "a. f. n."]
+    url: https://www.example.com
